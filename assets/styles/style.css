@@ -16,7 +16,7 @@ a{
 
 
 
-/* გიორგი კირვალიძე */
+/* Header/about */
 
 header{
     background-color:#0020F4 ;
@@ -134,7 +134,8 @@ button{
     top:0;
     left:630px;
 }
-/*keti lomidze*/
+
+/* sections/about */
 
 .about{
     position: relative;
@@ -207,7 +208,7 @@ span{
     box-shadow: -10px 5px 5px #0A22F4;
 }
 
-/* last section */
+/* Final step */
 
 .project{
     position: relative;
@@ -362,14 +363,14 @@ span{
 }
 
 
-.other{
+.image text{
     padding-top: 900px;
     padding-right: 226px;
  
 
 }
 
-.other-p{
+.img-t{
     display: inline;
     font-family: Helvetica;
     color: #171717;
