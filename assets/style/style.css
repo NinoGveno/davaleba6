@@ -15,14 +15,14 @@ header{
 	margin: 0 auto;
   position: fixed;
   top: 0;
-  left: 0;
+  left: 100px;
   display: inline-block;
 }
 	
 .headerlogo{ margin-right: 300px;
   vertical-align: middle;
-width: 115px;
-height: 65px;} 
+  width: 115px;
+  height: 65px;} 
 nav, nav ul, nav li{ display: inline-block;}
 nav a{ color: white;
     font-family: 'HelveticaNeue';
@@ -50,19 +50,35 @@ nav li{ margin-left: 43px; }
 
  .building1{max-width: 707px;
   width: 40%;
-max-height: 597px;
-height: 50%;
-border-radius: 15px;
-margin-top: 175px;
-/* margin-left: 240px;
-margin-right: 25px;} */}
+  max-height: 597px;
+  height: 50%;
+  border-radius: 15px;
+  margin-top: 175px;
+  margin-bottom: 70px;
+  vertical-align: bottom;
+
+}
+/* .section1 div{ display: inline-block;
+  min-width: 707px;
+  min-height: 673px;
+  position: relative;
+  }
+span{width: 10px;
+  bottom: 0;
+  left: 20px;
+  position: absolute;
+}
+.arrow{ width: 26px;
+  bottom: 0;
+  right: 20px;
+  position: absolute;
+} */
 .building2{ max-width: 948px;
   width: 50%;
-max-height: 800px;
-height: 70%;
-border-radius: 15px;
-margin-top: 97px;
-
+  max-height: 800px;
+  height: 70%;
+  border-radius: 15px;
+  margin-top: 97px;
  }
  h3{font-size: 32px;
   color: #171717 ;
@@ -79,23 +95,18 @@ margin-top: 97px;
   font-family: 'HelveticaNeue';
  }
  .section2p{ margin-bottom: 22px;}
- /* .sectiondiv{ display: inline-block;
+ .section2div{ display: inline-block;
   max-width: 463px;
   width: 40%;
   max-height: 604px;
-  height: 50%; }*/
-
- 
-/* .section2 img{
+  height: 50%; }
+ .section2 img{
   max-width: 707px;
   width: 60%;
   min-height: 707px;
-  height: 70%;
-  top: 1480px;
-  left: 840px;
-  width: 707px;
-  height: 707px;}
-   */
+  height: 70%;}
+  
+  
 
 
 
